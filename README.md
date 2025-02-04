@@ -1,4 +1,3 @@
-# spotify-clone
  
 # 🎵 Spotify Clone 🎶  
 
