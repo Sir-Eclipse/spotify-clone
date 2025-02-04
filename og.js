@@ -16,7 +16,7 @@ class App extends React.Component {
 const Menu = () => {
   return (
     React.createElement("div", { id: "menu-bar", class: "menu-bar" }, 
-    React.createElement("span", null, React.createElement("a", { href: "#" }, React.createElement("img", { src: "./spotify-log.png", alt: "Spotify Logo" }))), 
+    React.createElement("span", null, React.createElement("a", { href: "#" }, React.createElement("img", { src: "https://getheavy.com/wp-content/uploads/2019/12/spotify2019-830x350.jpg", alt: "Spotify Logo" }))), 
     React.createElement("nav", { class: "navbar" }, 
     React.createElement("ul", null, 
     React.createElement("li", null, React.createElement("a", { class: "active", href: "#" }, React.createElement("svg", { viewBox: "0 0 512 512", width: "24", height: "24", xmlns: "http://www.w3.org/2000/svg" }, React.createElement("path", { d: "M448 463.746h-149.333v-149.333h-85.334v149.333h-149.333v-315.428l192-111.746 192 110.984v316.19z", fill: "currentColor" })), "Home")), 
@@ -204,8 +204,8 @@ const Body = () => {
 
     React.createElement("div", { class: "category" }, 
     React.createElement("div", { class: "title" }, 
-    React.createElement("h3", null, "Made For Pratham"), 
-    React.createElement("a", { href: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }, "SEE ALL")), 
+    React.createElement("h3", null, "Made For curious_coder"), 
+    React.createElement("a", { href: "#" }, "SEE ALL")), 
 
     React.createElement("div", null, 
     React.createElement("div", { class: "category-info" }, 
@@ -272,7 +272,7 @@ const Body = () => {
 
     React.createElement("div", { class: "category-info" }, 
     React.createElement("div", { class: "img-div" }, 
-    React.createElement("img", { src: "./albums global.jpeg", alt: "Top Albums - Global playlist cover photo" })), 
+    React.createElement("img", { src: "C:\Visual Studio Folders\Spotify Clone\spotify-clone", alt: "Top Albums - Global playlist cover photo" })), 
 
     React.createElement("p", { class: "category-name" }, "Top Albums - Global")), 
 
@@ -288,7 +288,7 @@ const Body = () => {
     React.createElement("div", { class: "category" }, 
     React.createElement("div", { class: "title" }, 
     React.createElement("h3", null, "Best Of Artists"), 
-    React.createElement("a", { href: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }, "SEE ALL")), 
+    React.createElement("a", { href: "#" }, "SEE ALL")), 
 
     React.createElement("div", null, 
     React.createElement("div", { class: "category-info" }, 
@@ -330,7 +330,7 @@ const Body = () => {
     React.createElement("p", null, "POPULAR WITH LISTENERS OF"), 
     React.createElement("h3", null, "Headline: Breaking Football News")), 
 
-    React.createElement("a", { href: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }, "SEE ALL")), 
+    React.createElement("a", { href: "#" }, "SEE ALL")), 
 
     React.createElement("div", null, 
     React.createElement("div", { class: "category-info" }, 
