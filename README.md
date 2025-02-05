@@ -36,6 +36,10 @@ A fully functional **Spotify Clone** built using **HTML, CSS, JavaScript, and Re
 ## 🎧 Future Enhancements  
 - Integration with Spotify API for real music streaming.  
 - User authentication and personalized playlists.  
-- Lyrics display and song recommendations.  
+- Lyrics display and song recommendations.
+
+## 🖼 Preview Image
+![ss spotify](https://github.com/user-attachments/assets/6f7a48c2-b448-4030-b33d-9d51cb65a132)
+
 
 Contributions are welcome! Feel free to fork, improve, and submit PRs. 🚀
